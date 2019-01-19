@@ -1,0 +1,10 @@
+{
+  "name": "Google and facebook",
+  "version": "1.0",
+  "description": "Google and facebook!",
+  "permissions": ["webRequest","https://www.facebook.com/*"],
+  "background": {
+    "scripts": ["index.js"]
+  },
+  "manifest_version": 2
+}
